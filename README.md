@@ -13,6 +13,10 @@ The public repos under this account are concept demos and spec samples. The busi
 - [Cedar & Clerk WordPress formatting](https://github.com/alexmercer-projects/cedar-clerk-wp-formatting) — an article laid out the way it might appear on WordPress. [Live demo](https://alexmercer-projects.github.io/cedar-clerk-wp-formatting/)
 - [Ridgeline Plumbing local SEO](https://github.com/alexmercer-projects/ridgeline-plumbing-local-seo) — before and after on-page local SEO for a fictional plumber. [Live demo](https://alexmercer-projects.github.io/ridgeline-plumbing-local-seo/)
 
+## Audits
+
+- [Alderwick accessibility audit](https://github.com/alexmercer-projects/alderwick-accessibility-audit) — a WCAG 2.2 AA audit report for a fictional clinic website, with findings, fixes and a remediation plan. [Live demo](https://alexmercer-projects.github.io/alderwick-accessibility-audit/)
+
 ## Tools and scripts
 
 - [Tamarack budget tracker](https://github.com/alexmercer-projects/tamarack-budget-tracker) — a project budget dashboard and Excel workbook for a fictional builder. [Live demo](https://alexmercer-projects.github.io/tamarack-budget-tracker/)
